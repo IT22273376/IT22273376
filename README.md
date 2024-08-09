@@ -1,6 +1,6 @@
 <h1 align="center">
   
-<h1 align="center"> WELCOME TO MY EDUCATIONAL PROFILE </h1>
+<h1 align="center"> WELCOME TO MY EDUCATIONAL GITHUB PROFILE </h1>
 <p align="center"><img alt="Coding" width="100%" src="https://miro.medium.com/v2/resize:fit:1100/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"></p>
 
 <h1 align="center">Hi 👋 there, I'm Kavini Wickramasooriya</h1>
